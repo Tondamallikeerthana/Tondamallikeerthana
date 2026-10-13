@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="assets/profile-banner.png"
+       alt="Keerthana Tondamalli — Software Developer"
+       width="100%">
+</div>
 # Hi, I'm Keerthana 
 
 ### Full-Stack Developer | AI & Machine Learning Enthusiast
