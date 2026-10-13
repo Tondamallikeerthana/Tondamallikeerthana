@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Keerthana 
 
-<!--
-**Tondamallikeerthana/Tondamallikeerthana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | AI & Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+I'm a Computer Science and Engineering student who enjoys building practical software, exploring AI, and solving real-world problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Working on full-stack and AI-powered applications
+- Learning software engineering, AI/ML, and application development
+- Interested in open-source contributions and developer tools
+- Focused on clean code, practical solutions, and continuous learning
+
+### Technologies
+
+**Languages**
+- Python
+- JavaScript
+- TypeScript
+
+**Frontend**
+- React
+- HTML & CSS
+- Tailwind CSS
+
+**Backend**
+- Node.js
+- Django
+
+**Areas of Interest**
+- Artificial Intelligence and Machine Learning
+- Full-Stack Development
+
+### Featured Projects
+
+Check out my pinned repositories to explore my projects in AI, software development, and data-driven applications.
+
+### Connect With Me
+
+- GitHub: [@Tondamallikeerthana](https://github.com/Tondamallikeerthana)
+- LinkedIn: Add your LinkedIn profile URL here
+
+---
+
+*Building, learning, and improving one project at a time.*
