@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-banner.png"
+  <img src="assetsprofile-banner.png"
        alt="Keerthana Tondamalli — Software Developer"
        width="100%">
 </div>
