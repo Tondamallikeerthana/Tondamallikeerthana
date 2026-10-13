@@ -37,7 +37,6 @@ I'm a Computer Science and Engineering student who enjoys building practical sof
 **Areas of Interest**
 
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-7952B3?style=flat-square&logo=googlecloud&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-2563EB?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Full-Stack Development](https://img.shields.io/badge/Full--Stack_Development-475569?style=flat-square&logo=github&logoColor=white)
 
 ### Featured Projects
